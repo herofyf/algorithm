@@ -1,0 +1,1 @@
+There has n x m grid, from one corner to another corner. one step only to right or up. print all of paths.
